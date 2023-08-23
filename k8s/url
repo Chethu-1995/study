@@ -1,0 +1,11 @@
+commands
+https://www.bluematador.com/learn/kubectl-cheatsheet
+https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#-em-deployment-em-
+https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+
+
+
+k8s-pod error
+https://devopscube.com/troubleshoot-kubernetes-pods/
+https://www.kukulinski.com/10-most-common-reasons-kubernetes-deployments-fail-part-1/
+https://www.101daysofdevops.com/4-common-kubernetes-pods-error-and-debugging/
