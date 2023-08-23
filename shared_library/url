@@ -1,0 +1,7 @@
+Extending with Shared Libraries 
+https://www.jenkins.io/doc/book/pipeline/shared-libraries/
+https://www.youtube.com/watch?v=RvY5b--wnE0
+https://www.youtube.com/watch?v=2PeKKRqMH1I
+https://github.com/kiegroup/jenkins-pipeline-shared-libraries/blob/main/vars/githubscm.groovy
+https://www.nclouds.com/blog/jenkins-shared-libraries/
+https://devopscube.com/create-jenkins-shared-library/
