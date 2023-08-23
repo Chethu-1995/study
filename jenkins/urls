@@ -1,0 +1,19 @@
+jenkins_ssh_tomcat
+https://www.google.com/search?q=how+to+ssh+remote+server+from+jenkins+server&rlz=1C1RXQR_enIN975IN975&oq=how+to+ssh+remote+server+from+jenkins+server&aqs=chrome..69i57j33i160l2.28874j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:85c3cc04,vid:WpmTmRW0hA4
+
+SSH Credentials Management with Jenkins
+https://docs.cloudbees.com/docs/cloudbees-ci-kb/latest/client-and-managed-controllers/ssh-credentials-management-with-jenkins
+
+ssh_jenkins
+https://plugins.jenkins.io/ssh/
+https://www.jenkins.io/doc/book/using/using-credentials/
+
+Extending with Shared Libraries 
+https://www.jenkins.io/doc/book/pipeline/shared-libraries/
+https://www.youtube.com/watch?v=RvY5b--wnE0
+https://www.youtube.com/watch?v=2PeKKRqMH1I
+https://github.com/kiegroup/jenkins-pipeline-shared-libraries/blob/main/vars/githubscm.groovy
+https://www.nclouds.com/blog/jenkins-shared-libraries/
+https://devopscube.com/create-jenkins-shared-library/
+
+
